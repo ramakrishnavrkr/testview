@@ -1,2 +1,0 @@
-# testview
-Created with CodeSandbox
